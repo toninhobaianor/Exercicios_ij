@@ -1,1 +1,2 @@
-const exercise = require('../Exercicios_ij/Model/Modelo');
+import { Data } from "../Model/interfaceData";
+//import estoqueServise from '../service/serviceEstoque';
